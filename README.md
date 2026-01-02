@@ -15,17 +15,20 @@ python -m venv venv
 
 # 3. Cài đặt thư viện
 pip install -r requirements.txt
-
+```
 ## 2. Hướng dẫn chạy
 Bước 1: Lấy danh sách Link
 ```bash
 python get_links.py
 Bước 2: Lọc trùng link
+```
 ```bash
 python dedupe.py
+```
 Bước 3: Cào dữ liệu chi tiết
 ```bash
 python get_details.py
+```
 
 ## 3. Cấu hình & Tùy chỉnh
 ### Trong file `get_links.py` (Cấu hình khu vực quét)
