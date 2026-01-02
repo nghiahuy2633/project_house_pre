@@ -20,8 +20,8 @@ pip install -r requirements.txt
 Bước 1: Lấy danh sách Link
 ```bash
 python get_links.py
-Bước 2: Lọc trùng link
 ```
+Bước 2: Lọc trùng link
 ```bash
 python dedupe.py
 ```
