@@ -1,0 +1,14 @@
+
+venv/
+duphong/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.spyproject/
+
+
+*.json
+*.csv
+*.xlsx
+
+*.ipynb
